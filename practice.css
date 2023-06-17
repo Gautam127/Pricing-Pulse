@@ -1,0 +1,81 @@
+.li1{
+    list-style: none;
+}
+.nav-pad{
+    padding-top: 50px;
+}
+.nav-in{
+    width: 50%;
+    display:flex;
+    justify-content: space-between;
+    color: #00ad6a;
+    font-weight: 700;
+}
+.nav-button{
+    color:#00ad6a;
+    font-weight: 700;
+    margin-top: -6px;
+    background-color: transparent;
+    border: 2px solid #00ad6a;
+}
+.li1:hover{
+    color:black;
+    cursor:pointer;
+}
+.list-content{
+    margin-left: -20px;
+    font-family: system-ui;
+    font-size: 18px;
+}
+.ml-content{
+    margin-left:-20px;
+    margin-bottom: 20px;
+}
+.signup{
+    background-color: #1fe374;
+    border: 0px;
+    padding: 10px 40px;
+    font-weight: 700;
+    font-size: 20px;
+}
+.bg-row{
+    background-color: #d6dae5;
+}
+.marginy{
+    margin:4% 0px;
+}
+.col-height{
+    height: 560px;
+}
+.business{
+    color: #00ad6a;
+    font-weight: 700;
+}
+.signup-button{
+    border:0px;
+    width:55%;
+    font-weight: 700;
+    background-image: linear-gradient(to left, #1fe374 , #00ad6a);
+}
+div h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer-font{
+    color: #1fe374 ;
+    font-family: system-ui;
+    list-style: none;
+}
+.font-bold{
+    color:white;
+    font-weight: 600;
+    font-family: monospace;
+    list-style: none;
+}
+.footer-font:hover{
+    color:white;
+    cursor:pointer;
+}
+div p{
+    font-size: larger;
+}
